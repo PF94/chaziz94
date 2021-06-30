@@ -1,4 +1,5 @@
 ### Hi there 👋
+![chaziz94's Github stats](https://github-readme-stats.vercel.app/api?username=chaziz94&show_icons=true)
 
 <!--
 **chaziz94/chaziz94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
